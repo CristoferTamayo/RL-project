@@ -1,0 +1,23 @@
+*.npy # Data from the runs
+
+*.png # Pictures, graphs...
+*.jpg
+
+# Folders for experiments and data gathering
+Env1/
+Old_exp_withQtables/
+Old1/
+
+
+__pycache__/
+*.py[cod]
+*.so
+
+.DS_Store
+
+.env
+.venv/
+.env.*
+
+.vscode/
+.idea/
